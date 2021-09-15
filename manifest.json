@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "Multiplayer_Mod",
+  "name": "Multiplayer_Mod",
+  "author": "UIUC Atlas VR Programming Team",
+  "version": "0.0.1",
+  "description": "Modifies the Multiplayer functions to allow two people play together in a single platform next to eah other.",
+  "gameVersion": "1.17.0",
+  "dependsOn": {
+    "BSIPA": "^4.0.5"
+  },
+  "features": []
+}
